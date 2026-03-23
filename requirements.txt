@@ -1,0 +1,12 @@
+# Requirements for MC_analysis_paper.ipynb
+# Supplementary Material C
+#
+# Install:  pip install -r requirements.txt
+
+pandas>=2.0,<3.0
+numpy>=1.24,<2.0
+scipy>=1.10,<2.0
+matplotlib>=3.7,<4.0
+seaborn>=0.13,<1.0
+openpyxl>=3.1,<4.0
+jupyter>=1.0
