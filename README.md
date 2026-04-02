@@ -1,12 +1,12 @@
 # Supplementary Material C — Monte Carlo analysis notebook
 
-**Paper:** *Durability, not logistics, determines the climate benefit of jeans repair*
+**Paper:** *Circularity without circular design: where jeans repair delivers the greatest climate benefit*
 
 **Journal:** *Sustainable Production and Consumption*
 
-**Authors:** [Author list — update before publishing]
+**Authors:** [Rafael laurenti, Derek Diener, Aemiro Melkamu Daniel, Ann-Charlotte Mellquist, Robert Boyer, Agnieszka Hunka]
 
-**DOI:** [Add DOI once available]
+**DOI:** [DOI once available]
 
 ---
 
