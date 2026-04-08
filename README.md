@@ -4,7 +4,7 @@
 
 **Journal:** *Sustainable Production and Consumption*
 
-**Authors:** Rafael laurenti, Derek Diener, Aemiro Melkamu Daniel, Ann-Charlotte Mellquist, Robert Boyer, Agnieszka Hunka   
+**Authors:** Rafael laurenti, Derek Diener, Aemiro Melkamu Daniel, Ann-Charlotte Mellquist, Agnieszka Hunka   
 
 **DOI:** DOI once available   
 
