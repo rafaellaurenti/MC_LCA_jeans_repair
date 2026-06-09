@@ -4,7 +4,7 @@
 
 **Journal:** *Sustainable Production and Consumption*
 
-**Authors:** Rafael laurenti, Derek Diener, Aemiro Melkamu Daniel, Ann-Charlotte Mellquist, Agnieszka Hunka   
+**Authors:** Rafael Laurenti, Derek Diener, Aemiro Melkamu Daniel, Ann-Charlotte Mellquist, Agnieszka Hunka   
 
 **DOI:** DOI once available   
 
@@ -21,10 +21,10 @@ It reads the frozen Monte Carlo simulation data (Supplementary Material B) and g
 | Scenario comparison | `figures/Figure 3 - Scenario_comparison.{png,pdf}` | Figure 3 |
 | Break-even distance | `figures/Figure 6 - Break_even_forest.{png,pdf}` | Figure 6 |
 | Spearman tornado chart | `figures/Figure 3 - Spearman_tornado.{png,pdf}` | Figure 4 |
-| Spearman heatmap | `figures/Figure A1 - Spearman_heatmap_filtered.{png,pdf}` | Supporting Material A Figure A1 |
-| Driver scatter plots | `figures/spearman_scatter.{png,pdf}` | Extra figures not refered in the main text or Supporting Material A |
+| Spearman heatmap | `figures/Figure A1 - Spearman_heatmap_filtered.{png,pdf}` | Supplementary Material A, Figure A1 |
+| Driver scatter plots | `figures/spearman_scatter.{png,pdf}` | Extra figures not referenced in the main text or Supplementary Material A |
 | Driver explanation (L₀, E_prod) | `figures/driver_explanation_L0_Eprod.{png,pdf}` | Figure 5 |
-| Driver mechanism panels | `figures/driver_plots/driver_*.png` | Extra figures not refered in the main text or Supporting Material A |
+| Driver mechanism panels | `figures/driver_plots/driver_*.png` | Extra figures not referenced in the main text or Supplementary Material A |
 | Spearman results | `results/spearman_results.xlsx` | Table for documentation |
 
 > **Update the figure/table numbers** in this table to match the final manuscript before publishing.
@@ -104,21 +104,17 @@ two sheets used by the notebook:
 - **`MC_break_even`** — Pre-computed break-even distance statistics (median,
   P5, P95) for each transport leg and scenario combination.
 
-## License
-
-- **CC BY 4.0** — common for data and non-software academic outputs
-
 ## Citation
 
 If you use this code or data, please cite:
 
 ```bibtex
-@article{AuthorYear,
-  title   = {Durability, not logistics, determines the climate benefit of jeans repair},
-  author  = {[Authors]},
+@article{Laurenti2026,
+  title   = {Circularity without circular design: where jeans repair delivers the greatest climate benefit},
+  author  = {Laurenti, Rafael and Diener, Derek and Daniel, Aemiro Melkamu and Mellquist, Ann-Charlotte and Hunka, Agnieszka},
   journal = {Sustainable Production and Consumption},
   year    = {2026},
-  doi     = {[DOI]}
+  doi     = {[DOI once available]}
 }
 ```
 
